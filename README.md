@@ -6,7 +6,7 @@
 PostgreSQL
 
 #### Data Science:
-Python, Pandas, Numpy, Matplotlib, Scikit-learn, TensorFlow, PyTorch
+Python, Pandas, Numpy, Matplotlib, Scikit-learn, TensorFlow, PyTorch, SciPy, CatBoost, LightGBM, Statsmodels
 
 ## О себе:
 Быстро осваиваю новое и учусь, ответственно отношусь к работе. Люблю музыку, поэзию и стендап.
